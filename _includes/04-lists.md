@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. monkeys
+2. elephants
+3. peanuts
